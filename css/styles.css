@@ -1,4 +1,14 @@
 
+#joan-araujo-cover {
+  background-image: url("http://i.imgur.com/quJ5rEV.jpg");
+}
+
+
+#joan-araujo-card {
+  background-image: url("http://i.imgur.com/hFsyRDE.jpg");
+}
+
+
 /* GLOBAL STYLES
 ======================== */
 *, *:before, *:after {
@@ -486,7 +496,7 @@ a:visited {
 #emily-sugano-cover {
     background-image: url("http://i.imgur.com/HYFTqwa.jpg");
 }
- 
+
 #emily-sugano-card {
     background-image: url("http://i.imgur.com/QZl4wU0.jpg");
 }
@@ -5016,7 +5026,7 @@ a:visited {
 #julia-thompson-cover {
     background-image: url("http://i.imgur.com/95AcWIm.jpg");
   }
- 
+
 #julia-thompson-card {
     background-image: url("http://i.imgur.com/wIKLtDr.jpg");
 }
